@@ -7,7 +7,7 @@
 ## 📬 Contact Me  
 <div align="left">
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/youssef-hanaie/])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/youssef-hanaie/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lehonda12@gmail.com)
 
 </div>
@@ -71,9 +71,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Yasser1231/Ahmed-Yasser1231/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Yasser1231/Ahmed-Yasser1231/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmed-Yasser1231/Ahmed-Yasser1231/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssef6765/youssef6765/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssef6765/youssef6765/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youssef6765/youssef6765/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
